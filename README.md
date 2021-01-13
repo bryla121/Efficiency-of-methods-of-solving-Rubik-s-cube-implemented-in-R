@@ -8,4 +8,5 @@
 
 #file 'testing_and_generating_results' contains basic operations which were neccesarry during testing process and generating the results process, but when it was not worth to write them as a fucntions
 
-#Diploma thesis is my thesis in which I have explained and described everything needed in order to use the code in all my files
+#Thesis concerns efficiency of different methods of solving Rubik's cube and their comparison as well as deriving the formula for the number of possible states of Rubik's cube of any size. I have implemented two methods of solving the cube using R and simulated 6000 records in order to compare their efficiency.
+
